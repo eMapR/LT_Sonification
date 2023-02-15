@@ -14,8 +14,8 @@ This looks like it runs from just python using a csv of data.
 		Pandas - installed no issuses
 		Matplotlib - installed no issuses 
 		audiolazy - installed no issues
-		midiutil -
-		pygame -
+		midiutil - I can not find this package for Conda 
+		pygame - 
 
 
 	conda :
