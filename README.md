@@ -5,14 +5,30 @@ So, I'll try to get this setup with a simple test from the link above.
 
 This looks like it runs from just python using a csv of data. 
 
+	Python Version:
+
+		3.9
+
 	Python packages :
 
-		Pandas
-		Matplotlib
-		audiolazy
-		midiutil
-		pygame
+		Pandas - installed no issuses
+		Matplotlib - installed no issuses 
+		audiolazy - 
+		midiutil -
+		pygame -
 
 
-	
+	conda :
+
+		conda create --name=lt_song python=3.9
+
+		conda activate lt_song
+
+		conda install pandas
+
+		conda install matplotlib
+
+		conda install -c auto audiolazy
+
+			running 
 			
